@@ -1,7 +1,6 @@
 # 📌 C++ Pointer Programs Collection
 
-### 👨‍💻 Developed by Arya Dhole  
-> Roll No: 22070123027 | ENTC-A2
+### 👨‍💻 Developed by Hardik Kalsule
 
 This project contains multiple small C++ programs focused on understanding and demonstrating the use of **pointers**, **memory addresses**, **pointer arithmetic**, and **value swapping techniques**.
 
